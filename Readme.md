@@ -2,7 +2,7 @@
 A custom component to display the [BTC Mayer Multiple ](https://mayermultiple.info/)
 
 # Installation
-This can be installed by copying all the files from custom_components/mayermultiple/ to <config directory>/custom_components/mayermultiple/.
+This can be installed via HACS or by copying all the files from custom_components/mayermultiple/ to <config directory>/custom_components/mayermultiple/.
 
 # Configuration
 Add the following to *configuration.yaml*
