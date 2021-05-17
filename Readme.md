@@ -15,3 +15,8 @@ The above configuration will generate an entity with the id sensor.mayer_multipl
     percentage_time_higer: The percentage of the time the mayer multiple has historically been higher than today's value
     btc_price: The current btc price
     average_multiple: The average mayer multiple since creation of bitcoin
+
+# Example Use
+*The below is using mini-graph-card*
+
+![image](https://user-images.githubusercontent.com/3003773/118531771-31f06880-b714-11eb-9e39-376dbef2690f.png)
