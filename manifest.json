@@ -1,0 +1,11 @@
+{
+  "domain": "mayermultiple",
+  "name": "mayermultiple",
+  "version": "0.0.1",
+  "documentation": "https://github.com/akeslo/mayermultiple",
+  "dependencies": [],
+  "codeowners": [
+    "@akeslo"
+  ],
+  "requirements": []
+}
