@@ -54,7 +54,7 @@ class mayerMultiple(Entity):
 
         This is the only method that should fetch new data for Home Assistant.
         """
-        url = ("https://mayermultiple.info/current.json")
+        url = ("https://bitcoinition.com/current.json")
         # sending get request
         r = requests.get(url=url)
         # extracting response json
