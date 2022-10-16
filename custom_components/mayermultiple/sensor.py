@@ -46,7 +46,7 @@ class mayerMultiple(Entity):
         return ""
 
     @property
-    def device_state_attributes(self):
+    def extra_state_attributes(self):
         return { ATTR_HIGHER_PERCENTAGE: self._percentageTimeHigher, ATTR_BTC_PRICE:self._btcPrice , ATTR_AVERAGE_MULTIPLE: self._averageMayerMultiple }
 
     def update(self):
