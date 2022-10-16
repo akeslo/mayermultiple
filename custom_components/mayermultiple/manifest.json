@@ -2,6 +2,7 @@
   "domain": "mayermultiple",
   "name": "mayermultiple",
   "version": "1.0.0",
+  "issue_tracker": "https://github.com/akeslo/mayermultiple/issues",
   "documentation": "https://github.com/akeslo/mayermultiple",
   "dependencies": [],
   "codeowners": [
